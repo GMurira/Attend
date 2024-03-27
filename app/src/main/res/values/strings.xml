@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Attend</string>
+    <string name="password">Enter Your Password</string>
+    <string name="Login">Login to your account</string>
+    <string name="or">OR</string>
+    <string name="signup">Sign Up</string>
+    <string name="orlogin">Login I already have an account</string>
+    <string name="orSignUpo">Don\'t have an account? Signup</string>
+    <string name="TandCS">Terms and Conditions</string>
+    <string name="home">Home</string>
+    <string name="nfc">NFC</string>
+    <string name="qrcode">QR Code</string>
+    <string name="attendancemode">Choose Attendance Mode</string>
+    <string name="search">Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">E-Mail</string>
+    <string name="typePassword">Type Password Here</string>
+    <string name="good_Morning">Good Morning</string>
+    <string name="get_started">Get Started</string>
+    <string name="analytics">Analytics</string>
+    <string name="reports">Generate reports</string>
+    <string name="units">My Units</string>
+    <string name="input">Input</string>
+</resources>
